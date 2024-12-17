@@ -14,3 +14,4 @@
 # Methodology: Solving Burgers Equation
 ![image](https://github.com/user-attachments/assets/374c9948-73c6-46eb-9c0f-4bfa683d029d)
 
+![image](https://github.com/user-attachments/assets/a924cc74-6331-41e7-8523-c710eaa63b89)
